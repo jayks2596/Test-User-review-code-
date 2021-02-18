@@ -1,1 +1,4 @@
-# Test-User-review-code-
+# Text mining
+The dataset user_reviews.csv contains 100,000 client surveys of cell phones or their extras. This information has been scratched from various sites, and all factors in the dataset are simple. Notwithstanding the client surveys, client scores (out of 10) are additionally accessible. It is accepted that a client will prescribe an offered item to other people if the score given by that client is >= 8. Else, it is accepted that the client won't prescribe the item to other people. 
+
+I have made 3 arrangement models i.e Support Vector Classifier (SVC), Naïve Bayes Classifier and AdaBoost Classifier which will foresee if clients will prescribe items to other people. I have considered the models and afterward contrasted them in contrast with one another. Ultimately I conveyed the best performing model to anticipate clients' proposals in the test_reviews.csv dataset.
